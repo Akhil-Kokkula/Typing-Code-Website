@@ -73,21 +73,27 @@
 
 The typing code websites available online do not have specific lesson plans for developing your typing skills in the specific areas such as variable declaration and initialization, loops, classes, common algorithms, and real-world applications. Moreover, the websites online don't save your typing stats to help see your progress and the typing interface is lacking. Look at the subsections to see these implementations.    
 
+<br/>
+
 ### Interactive Typing Interface
 
-[![Product Screen Shot][typing-interface]](https://example.com)
+<kbd>[![Product Screen Shot][typing-interface]](https://example.com)</kbd>
 
 <p>Focused, clean, and user-friendly typing interface. Users have the ability to correct prior mistakes and the clean design increases user focus.</p>
 
+<br/>
+
 ### Progress Tracking
 
-[![Product Screen Shot][user-progress]](https://example.com)
+<kbd>[![Product Screen Shot][user-progress]]()</kbd>
 
 <p>Display of your typing stats (wpm and accuracy) for the past 30 days. Also, the user chooses a daily time limit for practicing and the app tracks the user's daily time spent typing. </p>
 
+<br/>
+
 ### Full Auth System with Firebase
 
-[![Product Screen Shot][auth]](https://example.com)
+  <kbd>[![Product Screen Shot][auth]]()</kbd>
 
 <p>Sign up, login, and resetting password all implemented with Firebase authentication.</p>
 
