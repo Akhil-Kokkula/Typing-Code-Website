@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<kbd>[![Product Name Screen Shot][product-screenshot]](https://example.com)</kbd>
 
 <p>Whenever I was typing code, my speed slowed down because of the syntax and use of special characters that I wasn't accustomed to in my everyday typing. So, Typing-Code.com was born. There are many benefits to typing fast. You can save DAYS per year by typing fast and you focus on what's important which is your creativity since you aren't distracted with how to type. <b>The ultimate productivity hack!</b></p>
 
