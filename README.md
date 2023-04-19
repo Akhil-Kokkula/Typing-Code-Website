@@ -100,7 +100,7 @@ The typing code websites available online do not have specific lesson plans for 
 
 <!-- Contact -->
 ## Contact
-<a href="https://www.linkedin.com/in/kokkula-akhil/">LinkedIn</a> | <a href="https://github.com/Akhil-Kokkula">GitHub</a> | <a href="//kokkulaak@gmail.com">Gmail</a>  
+<a href="https://www.linkedin.com/in/kokkula-akhil/">LinkedIn</a> | <a href="https://github.com/Akhil-Kokkula">GitHub</a> | <a href="mailto:kokkulaak@gmail.com">Gmail</a>  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
