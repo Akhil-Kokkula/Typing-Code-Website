@@ -46,7 +46,7 @@
 
 <kbd>[![Product Name Screen Shot][product-screenshot]](https://www.typing-code.com)</kbd>
 
-<p>Whenever I was typing code, my speed slowed down because of the syntax and use of special characters that I wasn't accustomed to in my everyday typing. So, Typing-Code.com was born. There are many benefits to typing fast. You can save DAYS per year by typing fast and you focus on what's important which is your creativity since you aren't distracted with how to type. <b>The ultimate productivity hack!</b></p>
+<p>Whenever I was typing code, my speed slowed down because of the syntax and use of special characters that I wasn't accustomed to in my everyday typing. So, Typing-Code.com was born. There are many benefits to typing fast. You can save DAYS per year by typing fast and you focus on what's important which is your creativity since you aren't distracted with how to type certain characters. <b>The ultimate productivity hack!</b></p>
 
 
 
@@ -71,7 +71,7 @@
 <!-- Features -->
 ## Features
 
-The typing code websites available online do not have specific lesson plans for developing your typing skills in the specific areas such as variable declaration and initialization, loops, classes, common algorithms, and real-world applications. Moreover, the websites online don't save your typing stats to help see your progress and the typing interface is lacking. Look at the subsections to see these implementations.    
+The typing code websites that were available online did not have specific lesson plans for developing your typing skills in specific areas such as variable declaration and initialization, loops, classes, common algorithms, and real-world applications. Moreover, the websites online didn't save your typing stats to help see your progress and the typing interfaces were not user friendly. Take a look at how I addressed these problems in my website.    
 
 <br/>
 
@@ -87,7 +87,7 @@ The typing code websites available online do not have specific lesson plans for 
 
 <kbd>[![Product Screen Shot][user-progress]]()</kbd>
 
-<p>Display of your typing stats (wpm and accuracy) for the past 30 days. Also, the user chooses a daily time limit for practicing and the app tracks the user's daily time spent typing. </p>
+<p>Display of your typing stats (wpm and accuracy) for the last 30 days. Also, the user chooses a daily time limit for practicing and the app tracks the user's daily time spent typing. </p>
 
 <br/>
 
