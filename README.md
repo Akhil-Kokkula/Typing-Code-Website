@@ -71,7 +71,7 @@
 <!-- Features -->
 ## Features
 
-The typing code websites that were available online did not have specific lesson plans for developing your typing skills in specific areas. I addressed this problem by including lesson plans for variable declaration and initialization, loops, classes, common algorithms, and real-world applications. Moreover, the websites online didn't save your typing stats to help see your progress and the typing interfaces were not user friendly. Take a look at how I addressed these problems in my website.    
+The typing code websites that were available online did not have specific lesson plans for developing your typing skills in specific areas. I addressed this problem by including lesson plans for variable declaration and initializations, loops, classes, common algorithms, real-world applications, etc. Moreover, the websites online didn't save your typing stats to help see your progress and the typing interfaces were not user friendly. Take a look at how I addressed these problems in my website.    
 
 <br/>
 
