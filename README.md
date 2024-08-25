@@ -11,7 +11,7 @@
     Learn To Type Code Faster. Just Pick a Language and Code Away!
     <br />
     <br />
-    <a href="https://www.typing-code.com"><strong>Explore the site »</strong></a>
+    <a href="https://typing-code.herokuapp.com"><strong>Explore the site »</strong></a>
     <br />
     <br />
     <br />
